@@ -69,7 +69,7 @@ This repository presents a monthly Emergency Room (ER) dashboard created using *
 
 | File Name | Description |
 |-----------|-------------|
-| `Hospital Emergency Room Data.xlsx` | The raw dataset with integrated dashboard|
+| `Hospital ER Analysis.xlsx` | The raw dataset with integrated dashboard|
 | `dashboard_screenshot.png`         | Visual screenshot of the Excel-based dashboard |
 | `README.md`                        | You are here! |
 
