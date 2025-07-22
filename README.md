@@ -57,21 +57,49 @@ This repository presents a monthly Emergency Room (ER) dashboard created using *
   - None
 
 ---
+## About the Dataset
+
+This dataset consists of **9,216 rows** and **12 columns**, covering detailed information about ER visits in 2023 and 2024.
+
+The dataset used for this dashboard is stored in `Hospital Emergency Room Data.xlsx`. It includes anonymized patient-level data with the following key fields:
+
+- Visit Date
+- Patient ID
+- Gender
+- Age
+- Wait Time (minutes)
+- Satisfaction Score (1–5)
+- Admission Status
+- Referral Department
+- Time Attended (minutes)
+
+This raw data has been:
+- Cleaned and loaded using **Power Query** for efficient processing
+- Modeled using Excel’s **Data Model**
+- Calculated using **DAX-like formulas** via **Measures** and **Calculated Columns**
+- Visualized using **Pivot Tables**, **Charts**, and **Slicers**
 
 ##  Tools Used
-- **Microsoft Excel** – For creating the dashboard, charts, slicers, and analysis
-- **Formulas and Conditional Formatting** – To drive dynamic summaries and visual cues
-- **Sparklines and Pivot Tables** – For tracking trends and aggregating key metrics
+- **Microsoft Excel**
+- **Power Query** – for data import, cleansing, and transformation
+- **Data Model** – to manage relationships across fields
+- **Measures** – for dynamic calculations like averages and counts
+- **Calculated Columns** – for logic-based grouping and flags
+- **Sparklines, Pivot Charts & Tables** – for dynamic, interactive visuals
+- **Slicers** – to filter by time, gender, and departments
 
 ---
 
 ## 📁 Files in This Repo
 
+
 | File Name | Description |
 |-----------|-------------|
-| `Hospital ER Analysis.xlsx` | The raw dataset with integrated dashboard|
-| `dashboard_screenshot.png`         | Visual screenshot of the Excel-based dashboard |
-| `README.md`                        | You are here! |
+| [`Hospital ER Analysis.xlsx`](./Hospital%20ER%20Analysis.xlsx) | Contains Pivot report and interactive Dashboard |
+| [`Hospital Emergency Room Data.xlsx`](./Hospital%20Emergency%20Room%20Data.xlsx) | Raw Dataset |
+| [`dashboard_screenshot.png`](./dashboard_screenshot.png) | Visual screenshot of the Excel-based dashboard |
+| [`README.md`](./README.md) | You are here! |
+
 
 ---
 
