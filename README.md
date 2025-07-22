@@ -111,7 +111,15 @@ This raw data has been:
 
 ---
 
----
+
+## Note on Interactivity
+
+If you download the Excel dashboard (`Hospital ER Analysis.xlsx`) and find it non-interactive:
+
+- Open the file in Microsoft Excel.
+- Click **“Enable Editing”** at the top.
+- If prompted, also click **“Enable Content”** to activate interactivity.
+- Now you can use slicers, filters and refresh options seamlessly.
 
 ## Contributions
 
