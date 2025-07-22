@@ -97,7 +97,6 @@ This raw data has been:
 |-----------|-------------|
 | [`Hospital ER Analysis.xlsx`](./Hospital%20ER%20Analysis.xlsx) | Contains Pivot report and interactive Dashboard |
 | [`Hospital Emergency Room Data.xlsx`](./Hospital%20Emergency%20Room%20Data.xlsx) | Raw Dataset |
-| [`dashboard_screenshot.png`](./dashboard_screenshot.png) | Visual screenshot of the Excel-based dashboard |
 | [`README.md`](./README.md) | You are here! |
 
 
